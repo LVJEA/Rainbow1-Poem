@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 Purple
 Yellow
@@ -9,3 +9,5 @@ Red
 Green
 
 These are the colors of the rainbow.
+
+These are not the colors of the unicorn
