@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and some Ponies
 
 Purple
 Yellow
@@ -11,3 +11,5 @@ Green
 These are the colors of the rainbow.
 
 These are not the colors of the unicorn
+
+These are not the colors of ponies on planet earth.
